@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.miga.springcloud</groupId>
-    <artifactId>lab-5-sentence-server</artifactId>
+    <artifactId>lab6-sentence-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>lab-5-sentence-server</name>
+    <name>lab6-sentence-server</name>
     <description>Sample project for Spring Cloud Ribbon Client</description>
 
     <parent>
