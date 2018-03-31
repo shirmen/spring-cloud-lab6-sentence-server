@@ -17,5 +17,6 @@ public interface AdjectiveClient {
         public Word getWord() {
             return new Word();
         }
+
     }
 }
